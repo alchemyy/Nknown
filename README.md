@@ -9,17 +9,13 @@ An application which can give user suggestion on where their knowledge/item is(u
 Training user's behaviour data
 
 
-#### Sections by devices ####
+#### Data by devices ####
 
-Section 1: Interaction with Computer
-   
-   Subsection 1:
-   
-Section 2: Interaction with Smart Phone
-
-Section 3: Interaction with Apple watch
-
-Section 4: Interaction with IoT
+* Section 1: Interaction with Computer
+   * Subsection 1:
+* Section 2: Interaction with Smart Phone
+* Section 3: Interaction with Apple watch
+* Section 4: Interaction with IoT
 
 ...
 
