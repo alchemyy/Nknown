@@ -13,9 +13,13 @@ Training user's behaviour data
 
 Section 1: Interaction with Computer
    Subsection 1:
+   
 Section 2: Interaction with Smart Phone
+
 Section 3: Interaction with Apple watch
+
 Section 4: Interaction with IoT
+
 ...
 
 
