@@ -12,6 +12,7 @@ Training user's behaviour data
 #### Sections by devices ####
 
 Section 1: Interaction with Computer
+   
    Subsection 1:
    
 Section 2: Interaction with Smart Phone
